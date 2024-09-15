@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active dIrectory Home Lab](https://github.com/KealanC/ActiveDirectoryLab)
+  - [Active Directory Home Lab](https://github.com/KealanC/ActiveDirectoryLab)
   - [Creating A Home SOC Lab with A SIEM](https://github.com/KealanC/HomeSOClab-SIEM-/tree/main)
-  - [Creating a Host-based Intrusion Detection System (HIDS)](https://github.com/joshmadakor1/Sentinel-Lab)
- 
+  - [Vulnerability Scanning with Nessus](https://github.com/KealanC/VulnerabilityScanner/tree/main) 
 
 <h2> 📄 Certifications</h2>
 
